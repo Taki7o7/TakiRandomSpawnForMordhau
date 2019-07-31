@@ -20,7 +20,7 @@
 
 > **5.** Hit `Compile` & `Save` afterwards
 
-> **6** Go into your Level Scene/Viewport and drag in some **`TakiSpawnPoint`**'s
+> **6** Go into your Level Scene/Viewport and drag in some **`TakiSpawnPoint`**'s (MAKE SURE TO HAVE NO NORMAL PLAYERSTART IN YOUR SCENE!)
 ![Guide-Image-6](https://i.imgur.com/vOCSpNQ.jpg)
 
 ## Thats it!
